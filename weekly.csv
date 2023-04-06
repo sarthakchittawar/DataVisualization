@@ -8,20 +8,20 @@ Time,Day,Duration,Type,Name,Course Code,Participants,Course Category,Credits
 14:00,Wednesday,3:00,LAB,Data Structures and Algorithms,CS1.201,260,CS,5
 8:30,Thursday,1:30,L,Linear Algebra,MA2.101,260,MA,4
 11:30,Thursday,1:30,L,Data Structures and Algorithms,CS1.201,260,CS,5
-14:00,Friday,1:30,T,Linear Algebra,MA2.101,260,MA,4
 16:00,Friday,1:00,T,Data Structures and Algorithms,CS1.201,260,CS,5
 8:30,Saturday,1:30,L,Arts,OC2.102,260,OT,2
 14:00,Tuesday,1:30,L,Intro to Human Sciences,HS8.102,260,HS,4
 15:30,Tuesday,1:30,L,Value Education II,OC3.102,260,HS,2
 14:00,Friday,1:30,L,Intro to Human Sciences,HS8.102,260,HS,4
 15:30,Friday,1:30,L,Value Education II,OC3.102,260,HS,2
-14:00,Tuesday,1:30,T,Linear Algebra,MA2.101,200,MA,4
 14:00,Monday,3:00,LAB,Intro to Software Systems,CS6.201,200,CS,2
 8:30,Tuesday,1:30,L,Intro to Software Systems,CS6.201,200,CS,2
 8:30,Monday,1:30,L,Design and Analysis of Software Systems,CS6.301,200,CS,4
 8:30,Wednesday,1:30,L,"Machine, Data and Learning",CS7.301,200,CS,4
 8:30,Thursday,1:30,L,Design and Analysis of Software Systems,CS6.301,200,CS,4
 8:30,Saturday,1:30,L,"Machine, Data and Learning",CS7.301,200,CS,4
+14:00,Friday,1:30,T,Linear Algebra,MA2.101,180,MA,4
+14:00,Tuesday,1:30,T,Linear Algebra,MA2.101,180,MA,4
 10:00,Monday,1:30,L,Introduction to IoT,CS3.303,160,EC,3
 11:30,Tuesday,1:30,L,Computer Systems Organization,CS2.201,160,CS,4
 10:00,Thursday,1:30,L,Introduction to IoT,CS3.303,160,EC,3
