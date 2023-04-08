@@ -1,0 +1,38 @@
+Time,TimeFromTo,Day,Duration,Type,Name,CourseName,CourseCode,Participants,CourseCategory,Credits,Batch
+8:30,8:30am to 10am,Monday,1:30,L,Linear Algebra,LA,MA2.101,260,MA,4,UG1
+10:00,10am to 11:30am,Monday,1:30,L,Introduction to IoT,IOT,CS3.303,160,EC,3,UG1
+11:30,11:30am to 1pm,Monday,1:30,L,Data Structures and Algorithms,DSA,CS1.201,260,CS,5,UG1
+14:00,2pm to 3:30pm,Monday,1:30,LAB,Intro to Software Systems,ISS,CS6.201,200,CS,2,UG1
+8:30,8:30am to 10am,Tuesday,1:30,L,Intro to Software Systems,ISS,CS6.201,200,CS,2,UG1
+11:30,11:30am to 1pm,Tuesday,1:30,L,Computer Systems Organization,CSO,CS2.201,160,CS,4,UG1
+14:00,2pm to 3pm,Tuesday,1:00,T,Linear Algebra,LA,MA2.101,260,MA,4,UG1
+16:00,4pm to 5pm,Tuesday,1:00,T,Data Structures and Algorithms,DSA,CS1.201,260,CS,5,UG1
+8:30,8:30am to 10am,Wednesday,1:30,L,Arts,Arts,OC2.102,260,OT,2,UG1
+14:00,2pm to 5pm,Wednesday,3:00,LAB,Data Structures and Algorithms,DSA,CS1.201,260,CS,5,UG1
+8:30,8:30am to 10am,Thursday,1:30,L,Linear Algebra,LA,MA2.101,260,MA,4,UG1
+10:00,10am to 11:30am,Thursday,1:30,L,Introduction to IoT,IOT,CS3.303,160,EC,3,UG1
+11:30,11:30am to 1pm,Thursday,1:30,L,Data Structures and Algorithms,DSA,CS1.201,260,CS,5,UG1
+11:30,11:30am to 1pm,Friday,1:30,L,Computer Systems Organization,CSO,CS2.201,160,CS,4,UG1
+14:00,2pm to 3pm,Friday,1:00,T,Linear Algebra,LA,MA2.101,260,MA,4,UG1
+16:00,4pm to 5pm,Friday,1:00,T,Data Structures and Algorithms,DSA,CS1.201,260,CS,5,UG1
+8:30,8:30am to 10am,Saturday,1:30,L,Arts,Arts,OC2.102,260,OT,2,UG1
+14:00,2pm to 5pm,Saturday,3:00,LAB,Introduction to IoT,IOT,CS3.303,160,EC,3,UG1
+8:30,8:30am to 10am,Monday,1:30,L,Design and Analysis of Software Systems,DASS,CS6.301,200,CS,4,UG2
+10:00,10am to 11:30am,Monday,1:30,LAB,Data Visualisation,DV,CS4.302,40,CS,2,UG2
+11:30,11:30am to 1pm,Monday,1:30,L,Introduction to Coding Theory,ICT,EC5.205,45,EC,2,UG2
+14:00,2pm to 3:30pm,Monday,1:30,L,Science II,SCI II,SC1.111,325,SC,4,UG2
+8:30,8:30am to 10am,Tuesday,1:30,L,Introduction to Algorithms Engineering,ALGO,CS1.305,30,CS,2,UG2
+14:00,2pm to 3:30pm,Tuesday,1:30,L,Intro to Human Sciences,IHS,HS8.102,260,HS,4,UG2
+15:30,3:30om to 5pm,Tuesday,1:30,L,Value Education II,VE,OC3.102,260,HS,2,UG2
+8:30,8:30am to 10am,Wednesday,1:30,L,"Machine, Data and Learning",MDL,CS7.301,200,CS,4,UG2
+10:00,10am to 11:30am,Wednesday,1:30,L,Computer Graphics,CG,CS7.302,60,CS,2,UG2
+8:30,8:30am to 10am,Thursday,1:30,L,Design and Analysis of Software Systems,DASS,CS6.301,200,CS,4,UG2
+10:00,10am to 11:30am,Thursday,1:30,L,Data Visualisation,DV,CS4.302,40,CS,2,UG2
+11:30,11:30am to 1pm,Thursday,1:30,L,Introduction to Coding Theory,ICT,EC5.205,45,EC,2,UG2
+14:00,2pm to 3:30pm,Thursday,1:30,L,Science II,SCI II,SC1.111,325,SC,4,UG2
+8:30,8:30am to 10am,Friday,1:30,L,Introduction to Algorithms Engineering,ALGO,CS1.305,30,CS,2,UG2
+14:00,2pm to 3:30pm,Friday,1:30,L,Intro to Human Sciences,IHS,HS8.102,260,HS,4,UG2
+15:30,3:30pm to 5pm,Friday,1:30,L,Value Education II,VE,OC3.102,260,HS,2,UG2
+8:30,8:30am to 10am,Saturday,1:30,L,"Machine, Data and Learning",MDL,CS7.301,200,CS,4,UG2
+10:00,10am to 11:30am,Saturday,1:30,L,Computer Graphics,CG,CS7.302,60,CS,2,UG2
+11:30,11:30am to 1pm,Saturday,1:30,L,Intro to Brain and Cognition,IBC,CS9.311,90,CS,2,UG2
